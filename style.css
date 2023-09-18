@@ -1,0 +1,125 @@
+
+.app{
+    margin: 50px;
+
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+
+
+
+.title--large{
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+}
+.main-start{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.main__img{
+    margin: 0px 40px;
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
+
+.main__img--long-left{
+    margin-top: 50px;
+    width: 300px;
+    height: 50px;
+    background-color: black;
+    text-align: left;
+}
+
+.main__img--long-right{
+    display: flex;
+    margin-top: 50px;
+    width: 400px;
+    height: 60px;
+    background-color: black;
+    text-align: left;
+}
+
+.main-center{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+}
+.main-center__left{
+    display: block;
+    margin-right: 50px;
+}
+.main-center__right{
+    display: block;
+    margin-left: 400px;
+}
+
+.main__img--long-left-second{
+    display: block;
+    margin-top: 60px;
+    width: 400px;
+    height: 60px;
+    background-color: black;
+
+}
+
+.main__img--long-right-second{
+    display: block;
+    margin-top: 50px;
+    width: 450px;
+    height: 70px;
+    background-color: black;
+  
+    
+}
+
+.main-center__left--separation{
+    margin-top: 50px;
+    display: flex;
+
+}
+.main-center__right--separation{
+    margin-top: 50px;
+    display: flex;
+   
+}
+
+.main__img--separation{
+    margin-right: 20px;
+    margin-top: 50px;
+    min-height: 100px;
+    min-width: 100px;
+    background-color: black;
+}
+.main-center__left--separation-text{
+    display: block;
+    margin-top: 70px;
+}
+.title{
+    font-size: 15px;
+    font-style:inherit;
+}
+.text{
+    font-size: 10px;
+}
+
+.main-center__left--separation-second{
+    display: flex;
+}
+.main__img__separation-mirror{
+    margin-top: 70px;
+    margin-left: 20px;
+    min-height: 100px;
+    min-width: 100px;
+    background-color: black;
+}
+
+.main-center__right--separation-text{
+    display: block;
+    margin-top: 35px;
+}
